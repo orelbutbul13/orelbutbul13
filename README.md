@@ -1,11 +1,10 @@
 # Orel Butbul
 
-Business Intelligence Analyst  
-Technical Background in AI Automation & Software Engineering
+Business Intelligence Analyst | AI Automation Specialist | Technical Background in Software Engineering
 
-I specialize in transforming complex datasets into structured, decision-ready insights that support strategic business decisions.
+I specialize in transforming complex datasets into structured, decision-ready insights that support operational efficiency, strategic planning, and business performance optimization.
 
-My experience spans SQL analytics, KPI modeling, dashboard architecture, and automation systems — combining analytical rigor with technical execution.
+My experience spans SQL analytics, Power BI, Tableau dashboard development, KPI modeling, automation systems, and workflow architecture — combining analytical rigor with technical execution.
 
 ---
 
@@ -13,17 +12,18 @@ My experience spans SQL analytics, KPI modeling, dashboard architecture, and aut
 
 - [View Business Intelligence Portfolio](https://github.com/orbu13/Date-Projects)
 
-Selected projects focused on investment analysis, retail profitability, and cohort-based retention modeling.
+Selected projects focused on investment analysis, retail profitability, restaurant analytics, marketplace intelligence, and cohort-based retention modeling.
 
 Core capabilities:
 - Advanced SQL analysis and relational data modeling  
-- KPI development and performance benchmarking  
-- Dashboard architecture (Tableau)  
+- KPI development and operational performance benchmarking  
+- Dashboard architecture and visualization (Power BI & Tableau)  
 - Funnel and cohort retention analysis  
-- Executive-level reporting  
+- Revenue diagnostics and business trend evaluation  
+- Executive-level reporting and strategic insight communication  
 
 Technologies:
-SQL • PostgreSQL • Tableau • Google Sheets • Data Modeling  
+SQL • PostgreSQL • MySQL • Power BI • Tableau • Google Sheets • Excel • DAX • Data Modeling  
 
 ---
 
@@ -39,6 +39,7 @@ Focus areas:
 - LLM prompt engineering  
 - Conditional logic design  
 - Structured data pipelines  
+- Multi-system automation workflows  
 
 Technologies:
 Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud  
@@ -49,20 +50,22 @@ Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud
 
 - [View Software Engineering Portfolio](https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects)
 
-Full-stack and API-driven applications demonstrating client-server architecture, backend development, and structured frontend integration.
+Full-stack and API-driven applications demonstrating client-server architecture, backend development, structured frontend integration, and software engineering fundamentals.
 
 Technologies:
-JavaScript • Node.js • Express • REST APIs • System Architecture  
+JavaScript • Node.js • Express • REST APIs • System Architecture • React  
 
 ---
 
 ## Core Competencies
 
-- Business Intelligence and performance analytics  
-- Data modeling and structured analysis  
+- Business Intelligence and operational analytics  
+- SQL querying and relational data modeling  
+- Power BI and Tableau dashboard development  
+- KPI architecture and performance benchmarking  
 - Automation-enhanced decision systems  
 - API-driven system integration  
-- Technical problem solving  
+- Technical problem solving and workflow optimization  
 
 ---
 
