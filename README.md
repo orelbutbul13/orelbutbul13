@@ -46,6 +46,25 @@ Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud
 
 ---
 
+## Python Learning Projects
+
+- [View Python Learning Projects](https://github.com/orelbutbul13/Python-Learning-Projects)
+
+Collection of projects focused on Python programming fundamentals, automation workflows, API integrations, and data analysis.
+
+Focus areas:
+- Python programming and software development fundamentals
+- Object-oriented programming and application logic
+- Automation scripting and workflow optimization
+- API integration and data processing
+- File handling and data manipulation
+- Problem-solving through practical projects
+
+Technologies:
+Python • APIs • Automation • Data Analysis • OOP • File Processing
+
+---
+
 ## Software Engineering Portfolio
 
 - [View Software Engineering Portfolio](https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects)
