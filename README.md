@@ -1,48 +1,41 @@
 # Orel Butbul
 
-Business Intelligence Analyst | AI Automation Specialist | Technical Background in Software Engineering
+**AI Automation Specialist & Business Intelligence Analyst**
+n8n • OpenAI • Make • Zapier | SQL • Power BI • Tableau • Excel
 
-I specialize in transforming complex datasets into structured, decision-ready insights that support operational efficiency, strategic planning, and business performance optimization.
-
-My experience spans SQL analytics, Power BI, Tableau dashboard development, KPI modeling, automation systems, and workflow architecture — combining analytical rigor with technical execution.
-
----
-
-## Business Intelligence Portfolio
-
-- [View Business Intelligence Portfolio](https://github.com/orbu13/Date-Projects)
-
-Selected projects focused on investment analysis, retail profitability, restaurant analytics, marketplace intelligence, and cohort-based retention modeling.
-
-Core capabilities:
-- Advanced SQL analysis and relational data modeling  
-- KPI development and operational performance benchmarking  
-- Dashboard architecture and visualization (Power BI & Tableau)  
-- Funnel and cohort retention analysis  
-- Revenue diagnostics and business trend evaluation  
-- Executive-level reporting and strategic insight communication  
-
-Technologies:
-SQL • PostgreSQL • MySQL • Power BI • Tableau • Google Sheets • Excel • DAX • Data Modeling  
+I build AI automations and business intelligence solutions that save teams time and turn messy data into clear decisions. Before tech, I spent 14 years in hospitality, training staff and running busy service, so I build systems that people actually use.
 
 ---
 
 ## AI Automation Portfolio
 
-- [View AI Automation Portfolio](https://github.com/orbu13/AI-Automation-Engineering-Portfolio)
+- [View AI Automation Portfolio](https://github.com/orelbutbul13/Ai-Automation-Portfolio)
 
-Automation systems integrating APIs, large language models, and workflow orchestration to improve operational efficiency and eliminate manual processes.
+End to end workflows that connect AI models, APIs and business tools. The AI handles the repetitive work, and a person stays in control where it matters.
 
-Focus areas:
-- Workflow automation architecture  
-- API integration and orchestration  
-- LLM prompt engineering  
-- Conditional logic design  
-- Structured data pipelines  
-- Multi-system automation workflows  
+Highlights:
+- [AI Legal Document Translation Pipeline](https://github.com/orelbutbul13/Ai-Automation-Portfolio/tree/main/AI-Legal-Document-Translation-Pipeline): privacy first translation with on device OCR and name detection, plus human review
+- [AI Document Intake, Classification & Routing System](https://github.com/orelbutbul13/Ai-Automation-Portfolio/tree/main/AI-Document-Intake-Classification-Routing-System): classifies files and sends sensitive or uncertain ones to a person
+- [AI Support Triage & Escalation System](https://github.com/orelbutbul13/Ai-Automation-Portfolio/tree/main/AI-Support-Triage-Escalation-System)
 
 Technologies:
-Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud  
+n8n • Make • Zapier • OpenAI • Gemini • Ollama • Tesseract OCR • REST APIs • Webhooks • Google Workspace
+
+---
+
+## Business Intelligence Portfolio
+
+- [View Business Intelligence Portfolio](https://github.com/orelbutbul13/Business-Intelligence-Portfolio)
+
+Analysis and dashboards that turn raw data into KPIs, insights and clear recommendations.
+
+Highlights:
+- [Insurance Quote Funnel BI Analysis](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Insurance-Quote-Funnel-BI-Analysis): found $13.9M in premium hidden behind applications that looked complete
+- [Shopify App Marketplace Analysis (Power BI)](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Shopify-Marketlace-Analysis-Power-Bi)
+- [Retail Returns Analysis (Tableau)](https://github.com/orelbutbul13/Business-Intelligence-Portfolio/tree/main/Retail-Returns-Analysis-Tableau)
+
+Technologies:
+SQL • PostgreSQL • MySQL • Power BI • DAX • Tableau • Excel • Google Sheets
 
 ---
 
@@ -50,43 +43,14 @@ Zapier • Make • OpenAI • Gemini • APIs • Webhooks • Google Cloud
 
 - [View Python Learning Projects](https://github.com/orelbutbul13/Python-Learning-Projects)
 
-Collection of projects focused on Python programming fundamentals, automation workflows, API integrations, and data analysis.
-
-Focus areas:
-- Python programming and software development fundamentals
-- Object-oriented programming and application logic
-- Automation scripting and workflow optimization
-- API integration and data processing
-- File handling and data manipulation
-- Problem-solving through practical projects
-
-Technologies:
-Python • APIs • Automation • Data Analysis • OOP • File Processing
+Small projects practicing Python fundamentals.
 
 ---
 
-## Software Engineering Portfolio
+## Background
 
-- [View Software Engineering Portfolio](https://github.com/orbu13/Best-Beginner-Software-Engineering-Projects)
-
-Full-stack and API-driven applications demonstrating client-server architecture, backend development, structured frontend integration, and software engineering fundamentals.
-
-Technologies:
-JavaScript • Node.js • Express • REST APIs • System Architecture • React  
+Software development foundations (C#, JavaScript, React, Node.js), then AI automation and business intelligence through TripleTen.
 
 ---
 
-## Core Competencies
-
-- Business Intelligence and operational analytics  
-- SQL querying and relational data modeling  
-- Power BI and Tableau dashboard development  
-- KPI architecture and performance benchmarking  
-- Automation-enhanced decision systems  
-- API-driven system integration  
-- Technical problem solving and workflow optimization  
-
----
-
-LinkedIn:  
-- [View LinkedIn Profile](https://www.linkedin.com/in/orelbutbul/)
+LinkedIn: [linkedin.com/in/orelbutbul](https://www.linkedin.com/in/orelbutbul/)
